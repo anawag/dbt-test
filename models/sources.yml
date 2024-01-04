@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: 'teste_nome'
+    database: 'teste-408916'
+    schema: 'nomy'
+    tables: 
+      - name: 'nome'
+      - name: 'sobrenome'
